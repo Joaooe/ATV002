@@ -41,7 +41,8 @@ exemplo:
 inserem imagens em um documento markdown.
 
 exemplo:
-![imagem](URL da imagem)
+![imagem](URL da imagem)![images](https://github.com/Joaooe/ATV002/assets/149209354/431a7701-be75-4a0d-8806-4febd4ec0522)
+
 
 ## enfase
 permitem enfatizar texto,como italico,negrito,tachado,subcrito e sobrescrito.
